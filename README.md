@@ -22,7 +22,7 @@ I'm passionate about building scalable and efficient backend systems. I have exp
 
 ### 📈 **GitHub Stats:**
 ![Vincenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecioProton&show_icons=true&theme=dark)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BecioProtone&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BecioProton&theme=dark)
 
 
 ---
