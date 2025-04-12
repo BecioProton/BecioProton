@@ -17,7 +17,7 @@ I'm passionate about building scalable and efficient backend systems. I have exp
 ---
 
 ### 🌍 **About Me:**
-- 👨‍💻 Currently working at **Kainos**, but actively looking for my next challenge 
+- 👨‍💻 Actively looking for my next challenge 
 - 🎯 Passionate about backend development and scalable architectures  
 - 🏆 Mentoring junior developers and sharing technical knowledge  
 
